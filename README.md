@@ -1,4 +1,9 @@
-![Header](https://your-banner-image-link.com)
+<p align="center">
+  <img src="https://imgur.com/a/76mS8xh" alt="Banner" width="100%" />
+</p>
+<p align="center">
+  <img src="https://your-profile-picture-link.com" alt="Profile Picture" width="150" />
+</p>
 
 ### Hi there, I'm Kanishk 👋
 
