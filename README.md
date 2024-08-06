@@ -1,7 +1,7 @@
 
-<p align="center">
-  <img src="https://github.com/koopatroopa787/koopatroopa787/blob/main/compressed_cat_image.jpg?raw=true" alt="Profile Picture" width="150" style="border-radius: 50%;" />
-</p>
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/koopatroopa787/koopatroopa787/blob/main/compressed_cat_image.jpg?raw=true" alt="Profile Picture" width="150" style="border-radius: 50%; margin-right: 20px;" />
+  <div>
 
 ### Hi there, I'm Kanishk 👋
 
