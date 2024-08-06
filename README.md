@@ -1,6 +1,6 @@
 ![Header](https://your-banner-image-link.com)
 
-### Hi there, I'm [Kanishk] 👋
+### Hi there, I'm Kanishk 👋
 
 **`AI & Machine Learning Enthusiast`**
 
@@ -21,6 +21,8 @@ I specialize in building and deploying AI and machine learning models. I'm passi
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FF6F00?style=flat&logo=huggingface&logoColor=white)
+![Transformers](https://img.shields.io/badge/-Transformers-FF6F00?style=flat&logo=transformers&logoColor=white)
 
 ### 📊 GitHub Stats
 
@@ -48,3 +50,5 @@ I specialize in building and deploying AI and machine learning models. I'm passi
 - Reinforcement Learning
 - Data Analysis and Visualization
 - Model Deployment and Monitoring
+- Model Development with Transformers
+- Hugging Face Model Training
