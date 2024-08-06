@@ -1,4 +1,4 @@
-![Header](https://your-banner-image-link.com)
+![Header](https://github.com/koopatroopa787/koopatroopa787/blob/main/compressed_cat_image.jpg?raw=true)
 ### Hi there, I'm Kanishk 👋
 
 **`AI & Machine Learning Enthusiast`**
