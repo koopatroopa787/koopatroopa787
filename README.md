@@ -1,6 +1,6 @@
 ![Header](https://your-banner-image-link.com)
 
-### Hi there, I'm [Your Name] 👋
+### Hi there, I'm [Kanishk] 👋
 
 **`AI & Machine Learning Enthusiast`**
 
