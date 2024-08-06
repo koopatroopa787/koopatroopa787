@@ -1,4 +1,9 @@
-![Header](https://github.com/koopatroopa787/koopatroopa787/blob/main/compressed_cat_image.jpg?raw=true)
+<p align="center">
+  <img src="https://github.com/koopatroopa787/koopatroopa787/blob/main/compressed_cat_image.jpg?raw=true" alt="Banner" width="100%" />
+</p>
+<p align="center">
+  <img src="https://github.com/koopatroopa787/koopatroopa787/blob/main/compressed_cat_image.jpg?raw=true" alt="Profile Picture" width="150" style="border-radius: 50%;" />
+</p>
 ### Hi there, I'm Kanishk 👋
 
 **`AI & Machine Learning Enthusiast`**
