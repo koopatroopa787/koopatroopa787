@@ -2,6 +2,13 @@
 <p align="center">
   <img src="https://github.com/koopatroopa787/koopatroopa787/blob/main/compressed_cat_image.jpg?raw=true" alt="Profile Picture" width="150" style="border-radius: 50%;" />
 </p>
+
+### Hi there, I'm Kanishk 👋
+
+**`AI & Machine Learning Enthusiast`**
+
+I specialize in building and deploying AI and machine learning models. I'm passionate about leveraging data 
+
 ### Hi there, I'm Kanishk 👋
 
 **`AI & Machine Learning Enthusiast`**
