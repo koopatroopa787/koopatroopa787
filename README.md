@@ -1,12 +1,3 @@
-<div style="display: flex; align-items: center;">
-  <img src="https://github.com/koopatroopa787/koopatroopa787/blob/main/compressed_cat_image.jpg?raw=true" alt="Profile Picture" width="150" height="150" style="border-radius: 50%; object-fit: cover; margin-right: 20px;" />
-  <div>
-
-### Hi there, I'm Kanishk 👋
-
-**`AI & Machine Learning Enthusiast`**
-
-I specialize in building and deploying AI and machine learning models. I'm passionate about leveraging data 
 
 ### Hi there, I'm Kanishk 👋
 
