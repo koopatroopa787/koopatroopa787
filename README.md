@@ -5,15 +5,13 @@
 <table width="100%">
 <tr>
 <td width="50%">
-<img src="https://i.postimg.cc/bY8hQ4d1/retro-pixel-coding.png" width="100%" alt="Retro Coding">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="AI Animation">
 </td>
 <td width="50%">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="AI Animation">
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="100%" alt="Coding Animation">
 </td>
 </tr>
 </table>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=600&lines=🤖+Building+AI+Automation+Systems;🚀+Discord+Bot+%26+Voice+Integration;⚡+Google+Workspace+APIs+Expert;🧠+Custom+ML+Model+Developer;🎯+Screenshot+Analysis+%26+OCR)](https://git.io/typing-svg)
 
 </div>
 
@@ -23,13 +21,13 @@
 
 <div align="center">
 
-**AI Engineer specializing in automation workflows**
+**AI Engineer & Software Developer**
 
-**📍 Location:** India 🇮🇳 | **🎯 Focus:** Intelligent Automation Systems
+**📍 Location:** India 🇮🇳 | **🎯 Focus:** Building intelligent systems
 
-**💼 Expertise:** Discord Bots • Voice Integration • Google APIs • Custom ML Models
+**💼 Expertise:** AI/ML Development • Python Programming • API Integration • Custom Solutions
 
-**🌱 Currently Learning:** LangChain • Advanced NLP • Edge AI Deployment
+**🌱 Currently Learning:** Advanced AI Technologies • Cloud Computing • System Architecture
 
 </div>
 
@@ -41,10 +39,10 @@
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Discord.py](https://img.shields.io/badge/Discord.py-5865F2?style=flat&logo=discord&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 
-![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Google APIs](https://img.shields.io/badge/Google_APIs-4285F4?style=flat&logo=google&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat)
@@ -117,9 +115,7 @@
 
 <div align="center">
 
-### 💭 *"Code. Train. Automate. Repeat."*
-
-<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="100%">
+### 💭 *"Building the future, one line of code at a time"*
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
