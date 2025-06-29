@@ -1,26 +1,35 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=KANISHK%20SACHAN&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%26%20Automation%20Specialist&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5&height=200&section=header&text=KANISHK%20SACHAN&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Automation%20Specialist&descAlignY=55&descSize=18)
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="400">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=600&lines=🤖+Building+AI+Automation+Systems;🚀+Discord+Bot+%26+Voice+Integration;⚡+Google+Workspace+APIs+Expert;🧠+Custom+ML+Model+Developer;🎯+Screenshot+Analysis+%26+OCR)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=600&lines=⚡+Building+Intelligent+Systems;🤖+Custom+AI+Models+%26+Automation;🔄+Workflow+Optimization+Expert;🎯+Python+%7C+ML+%7C+APIs;💡+Turning+Ideas+Into+Code)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🔥 **About Me**
+## 🚀 **Who Am I?**
 
 <div align="center">
 
-**🤖 AI Engineer specializing in automation workflows**
-
-**🏠 Location:** India 🇮🇳 | **🎯 Focus:** Intelligent Automation Systems
-
-**💼 Expertise:** Discord Bots • Voice Integration • Google APIs • Custom ML Models
-
-**🌱 Currently Learning:** LangChain • Advanced NLP • Edge AI Deployment
+```javascript
+const kanishk = {
+    role: "AI Engineer & Automation Specialist",
+    location: "India 🇮🇳",
+    specializes_in: [
+        "🤖 AI Chatbot Development",
+        "🔄 Workflow Automation",
+        "📊 Custom ML Models", 
+        "🎤 Voice Integration",
+        "📷 Screenshot Analysis"
+    ],
+    currently_building: "Intelligent automation systems",
+    coffee_level: "Maximum ☕",
+    fun_fact: "I automate things faster than I can explain them"
+};
+```
 
 </div>
 
@@ -30,19 +39,23 @@
 
 <div align="center">
 
-**Core Technologies**
-
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+### 🔥 **Core Stack**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Discord.py](https://img.shields.io/badge/Discord.py-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-**AI & Automation**
-
-![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=for-the-badge)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
+### 🤖 **AI & Automation**
+![Discord.py](https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
 ![Google APIs](https://img.shields.io/badge/Google_APIs-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 📊 **Data & ML**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
 
@@ -52,39 +65,87 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=koopatroopa787&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koopatroopa787&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=koopatroopa787&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koopatroopa787&layout=compact&theme=radical&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🐍 **Contribution Snake**
+## 🔥 **Activity & Streaks**
 
 <div align="center">
 
-![Snake animation](https://github.com/koopatroopa787/koopatroopa787/blob/output/github-contribution-grid-snake-dark.svg)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=koopatroopa787&theme=radical&hide_border=true)
 
 </div>
 
 ---
 
-## 🏆 **Featured Projects**
+## 🎯 **Featured Projects**
 
 <div align="center">
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| **[Knowledge Graph](https://github.com/koopatroopa787/Knowledge_graph)** | 🧠 Advanced knowledge graph for data connections | `Python` `NetworkX` `ML` |
-| **[Google Colab](https://github.com/koopatroopa787/Google-colab)** | 🔬 AI/ML experiments and implementations | `TensorFlow` `PyTorch` |
-| **[My Projects](https://github.com/koopatroopa787/myprojects)** | 🚀 Diverse AI capability demonstrations | `Multi-tech` |
-| **[AMD Pervasive AI](https://github.com/koopatroopa787/AMD-pervasive-AI)** | ⚡ AI models for AMD architectures | `Python` `ROCm` |
+[![Knowledge Graph](https://github-readme-stats.vercel.app/api/pin/?username=koopatroopa787&repo=Knowledge_graph&theme=radical&hide_border=true)](https://github.com/koopatroopa787/Knowledge_graph)
+[![Google Colab](https://github-readme-stats.vercel.app/api/pin/?username=koopatroopa787&repo=Google-colab&theme=radical&hide_border=true)](https://github.com/koopatroopa787/Google-colab)
+
+[![My Projects](https://github-readme-stats.vercel.app/api/pin/?username=koopatroopa787&repo=myprojects&theme=radical&hide_border=true)](https://github.com/koopatroopa787/myprojects)
+[![AMD Pervasive AI](https://github-readme-stats.vercel.app/api/pin/?username=koopatroopa787&repo=AMD-pervasive-AI&theme=radical&hide_border=true)](https://github.com/koopatroopa787/AMD-pervasive-AI)
 
 </div>
 
 ---
 
-## 🌐 **Connect & Collaborate**
+## 💡 **Current Focus**
+
+<div align="center">
+
+```mermaid
+mindmap
+  root((AI Systems))
+    Chatbots
+      Discord Integration
+      Voice Recognition
+      Natural Language
+    Automation
+      Workflow Systems
+      API Integration
+      Google Workspace
+    ML Models
+      Custom Training
+      Computer Vision
+      Screenshot Analysis
+    Future
+      Edge AI
+      LLM Fine-tuning
+      Advanced NLP
+```
+
+</div>
+
+---
+
+## 🏆 **GitHub Trophies**
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=koopatroopa787&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+</div>
+
+---
+
+## 📈 **Contribution Graph**
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=koopatroopa787&bg_color=0d1117&color=00f5ff&line=00f5ff&point=ff6b6b&area=true&hide_border=true)
+
+</div>
+
+---
+
+## 🌐 **Connect With Me**
 
 <div align="center">
 
@@ -95,7 +156,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
 
-![Profile Views](https://komarev.com/ghpvc/?username=koopatroopa787&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=koopatroopa787&color=ff6b6b&style=for-the-badge)
 
 </div>
 
@@ -103,8 +164,10 @@
 
 <div align="center">
 
-### 💭 *"Automating the world, one AI model at a time"*
+### 💭 *"Code. Train. Automate. Repeat."*
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b24b15be.gif" width="400">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5&height=100&section=footer)
 
 </div>
