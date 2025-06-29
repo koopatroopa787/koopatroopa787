@@ -1,11 +1,17 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Kanishk!&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Exploring%20new%20technologies%20and%20building%20cool%20things&descAlignY=55&descSize=16)
-
 <div align="center">
+
+# Hi there, I'm Kanishk! 👋
+
+*Exploring new technologies and building cool things*
+
+</div>
+
+---
 
 <table width="100%">
 <tr>
 <td width="50%">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="AI Animation">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100%" alt="Developer Animation">
 </td>
 <td width="50%">
 <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="100%" alt="Coding Animation">
@@ -13,23 +19,20 @@
 </tr>
 </table>
 
-</div>
-
 ---
 
-## 🔥 **About Me**
+## 🙋‍♂️ **About Me**
 
-<div align="center">
-
-**Student & Developer trying to make a difference**
-
-**📍 Location:** India 🇮🇳 | **🎯 Goal:** Learning and building cool projects
-
-**💼 Working with:** Python • AI/ML • APIs • Web Development
-
-**🌱 Always exploring:** New technologies • Better coding practices • Creative solutions
-
-</div>
+* 👋 My name is **Kanishk Kumar Sachan**
+* 🎓 I'm a **student and aspiring developer**
+* 🔭 I'm currently working on **AI automation projects and chatbots**
+* 🌱 I'm currently learning **LangChain, Advanced ML, and system architecture**
+* 🤝 I'm looking to collaborate on **AI projects and open source contributions**
+* 🤔 I'm looking for help with **cloud deployment and scaling applications**
+* 💬 Ask me about **Python, AI/ML, automation, or any tech stuff!**
+* 📫 How to reach me: **[Email](mailto:yashk242810@gmail.com) or [LinkedIn](https://www.linkedin.com/in/kanishk-kumar-sachan-36114a197/)**
+* ❤️ I love **coding, learning new technologies, and building useful tools**
+* ⚡ Fun fact: **I can automate boring tasks faster than I can explain how I did it!**
 
 ---
 
@@ -45,13 +48,13 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Google APIs](https://img.shields.io/badge/Google_APIs-4285F4?style=flat&logo=google&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 **GitHub Analytics**
+## 📊 **GitHub Stats**
 
 <div align="center">
 
@@ -62,7 +65,7 @@
 
 ---
 
-## 🏆 **Achievement Showcase**
+## 🏆 **GitHub Trophies**
 
 <div align="center">
 
@@ -72,7 +75,7 @@
 
 ---
 
-## 🔥 **Activity & Streaks**
+## 📈 **Activity Stats**
 
 <div align="center">
 
@@ -96,7 +99,7 @@
 
 ---
 
-## 🌐 **Connect With Me**
+## 🌐 **Let's Connect!**
 
 <div align="center">
 
@@ -104,8 +107,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Kanishk11486111)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:yashk242810@gmail.com)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white)](https://fiverr.com/your-profile)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=koopatroopa787&color=blueviolet&style=flat)
 
@@ -115,8 +116,6 @@
 
 <div align="center">
 
-### 💭 *"Learning something new every day, one project at a time"*
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+*Thanks for visiting! Feel free to reach out if you want to collaborate on something cool! 🚀*
 
 </div>
