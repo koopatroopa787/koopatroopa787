@@ -11,7 +11,7 @@
 <table width="100%">
 <tr>
 <td width="50%">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100%" alt="Developer Animation">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Coding Workspace">
 </td>
 <td width="50%">
 <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="100%" alt="Coding Animation">
@@ -40,15 +40,15 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Google APIs](https://img.shields.io/badge/Google_APIs-4285F4?style=flat&logo=google&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Google APIs](https://img.shields.io/badge/Google%20APIs-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -89,11 +89,19 @@
 
 <div align="center">
 
-[![Knowledge Graph](https://github-readme-stats.vercel.app/api/pin/?username=koopatroopa787&repo=Knowledge_graph&theme=tokyonight&hide_border=true)](https://github.com/koopatroopa787/Knowledge_graph)
-[![Google Colab](https://github-readme-stats.vercel.app/api/pin/?username=koopatroopa787&repo=Google-colab&theme=tokyonight&hide_border=true)](https://github.com/koopatroopa787/Google-colab)
+<a href="https://github.com/koopatroopa787/Knowledge_graph">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=koopatroopa787&repo=Knowledge_graph&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/koopatroopa787/Google-colab">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=koopatroopa787&repo=Google-colab&theme=tokyonight&hide_border=true" />
+</a>
 
-[![My Projects](https://github-readme-stats.vercel.app/api/pin/?username=koopatroopa787&repo=myprojects&theme=tokyonight&hide_border=true)](https://github.com/koopatroopa787/myprojects)
-[![AMD Pervasive AI](https://github-readme-stats.vercel.app/api/pin/?username=koopatroopa787&repo=AMD-pervasive-AI&theme=tokyonight&hide_border=true)](https://github.com/koopatroopa787/AMD-pervasive-AI)
+<a href="https://github.com/koopatroopa787/myprojects">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=koopatroopa787&repo=myprojects&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/koopatroopa787/AMD-pervasive-AI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=koopatroopa787&repo=AMD-pervasive-AI&theme=tokyonight&hide_border=true" />
+</a>
 
 </div>
 
@@ -103,12 +111,12 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanishk-kumar-sachan-36114a197/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Kanishk11486111)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:yashk242810@gmail.com)
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white)](https://fiverr.com/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanishk-kumar-sachan-36114a197/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Kanishk11486111)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashk242810@gmail.com)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com/your-profile)
 
-![Profile Views](https://komarev.com/ghpvc/?username=koopatroopa787&color=blueviolet&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=koopatroopa787&color=blueviolet&style=for-the-badge)
 
 </div>
 
