@@ -11,7 +11,7 @@
 <table width="100%">
 <tr>
 <td width="50%">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Coding Workspace">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="AI Animation">
 </td>
 <td width="50%">
 <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="100%" alt="Coding Animation">
@@ -89,19 +89,32 @@
 
 <div align="center">
 
+<table>
+<tr>
+<td width="50%" align="center">
 <a href="https://github.com/koopatroopa787/Knowledge_graph">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=koopatroopa787&repo=Knowledge_graph&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=koopatroopa787&repo=Knowledge_graph&theme=tokyonight&hide_border=true" />
 </a>
+</td>
+<td width="50%" align="center">
 <a href="https://github.com/koopatroopa787/Google-colab">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=koopatroopa787&repo=Google-colab&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=koopatroopa787&repo=Google-colab&theme=tokyonight&hide_border=true" />
 </a>
-
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
 <a href="https://github.com/koopatroopa787/myprojects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=koopatroopa787&repo=myprojects&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=koopatroopa787&repo=myprojects&theme=tokyonight&hide_border=true" />
 </a>
+</td>
+<td width="50%" align="center">
 <a href="https://github.com/koopatroopa787/AMD-pervasive-AI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=koopatroopa787&repo=AMD-pervasive-AI&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=koopatroopa787&repo=AMD-pervasive-AI&theme=tokyonight&hide_border=true" />
 </a>
+</td>
+</tr>
+</table>
 
 </div>
 
