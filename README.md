@@ -1,7 +1,6 @@
-```markdown
-<div align="center">
-
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=KANISHK%20SACHAN&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%26%20Automation%20Specialist&descAlignY=55&descSize=18)
+
+<div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400">
 
@@ -13,25 +12,17 @@
 
 ## 🔥 **About Me**
 
-```python
-class KanishkSachan:
-    def __init__(self):
-        self.role = "AI Engineer & Automation Specialist"
-        self.location = "India 🇮🇳"
-        self.languages = ["Python", "JavaScript", "SQL"]
-        self.specialties = [
-            "AI Chatbot Development",
-            "Workflow Automation", 
-            "Google APIs Integration",
-            "Voice Recognition Systems",
-            "Custom ML Models"
-        ]
-        self.current_projects = ["Discord AI Bot", "Screenshot Analyzer", "Business Automation"]
-        self.learning = ["LangChain", "Advanced NLP", "Edge AI Deployment"]
-    
-    def get_daily_routine(self):
-        return ["☕ Coffee", "💻 Code", "🤖 Train Models", "🔄 Automate Everything"]
-```
+<div align="center">
+
+**🤖 AI Engineer specializing in automation workflows**
+
+**🏠 Location:** India 🇮🇳 | **🎯 Focus:** Intelligent Automation Systems
+
+**💼 Expertise:** Discord Bots • Voice Integration • Google APIs • Custom ML Models
+
+**🌱 Currently Learning:** LangChain • Advanced NLP • Edge AI Deployment
+
+</div>
 
 ---
 
@@ -40,14 +31,14 @@ class KanishkSachan:
 <div align="center">
 
 **Core Technologies**
-<br>
+
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Discord.py](https://img.shields.io/badge/Discord.py-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 **AI & Automation**
-<br>
+
 ![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=for-the-badge)
 ![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
 ![Google APIs](https://img.shields.io/badge/Google_APIs-4285F4?style=for-the-badge&logo=google&logoColor=white)
@@ -117,39 +108,3 @@ class KanishkSachan:
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
 </div>
-```
-
-**🐍 To add the Snake Game:** 
-Create `.github/workflows/snake.yml` in your repo:
-```yaml
-name: Generate snake animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *" 
-  workflow_dispatch:
-  push:
-    branches:
-    - master
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    
-    steps:
-      - name: generate snake.svg
-        uses: Platane/snk/svg-only@v2
-        with:
-          github_user_name: koopatroopa787
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            
-      - name: push snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
