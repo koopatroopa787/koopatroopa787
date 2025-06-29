@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=KANISHK%20SACHAN&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Automation%20Specialist&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Kanishk!&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Exploring%20new%20technologies%20and%20building%20cool%20things&descAlignY=55&descSize=16)
 
 <div align="center">
 
@@ -21,13 +21,13 @@
 
 <div align="center">
 
-**AI Engineer & Software Developer**
+**Student & Developer trying to make a difference**
 
-**📍 Location:** India 🇮🇳 | **🎯 Focus:** Building intelligent systems
+**📍 Location:** India 🇮🇳 | **🎯 Goal:** Learning and building cool projects
 
-**💼 Expertise:** AI/ML Development • Python Programming • API Integration • Custom Solutions
+**💼 Working with:** Python • AI/ML • APIs • Web Development
 
-**🌱 Currently Learning:** Advanced AI Technologies • Cloud Computing • System Architecture
+**🌱 Always exploring:** New technologies • Better coding practices • Creative solutions
 
 </div>
 
@@ -115,7 +115,7 @@
 
 <div align="center">
 
-### 💭 *"Building the future, one line of code at a time"*
+### 💭 *"Learning something new every day, one project at a time"*
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
