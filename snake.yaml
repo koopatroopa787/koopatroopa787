@@ -2,11 +2,11 @@ name: Generate snake animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *" 
+    - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches:
-    - master
+    - main
 
 jobs:
   generate:
@@ -15,7 +15,7 @@ jobs:
     
     steps:
       - name: generate snake.svg
-        uses: Platane/snk/svg-only@v2
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: koopatroopa787
           outputs: |
