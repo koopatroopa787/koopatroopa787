@@ -1,4 +1,4 @@
-name: Generate snake animation
+name: Generate Pac-Man animation
 
 on:
   schedule:
@@ -14,14 +14,14 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
         
-      - name: generate snake.svg
-        uses: Platane/snk/svg-only@v3
+      - name: generate pac-man.svg
+        uses: Platane/snk@v3
         with:
           github_user_name: koopatroopa787
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=%23ffdd44&color_dots=%23ff6b6b
             
-      - name: push snake.svg to the output branch
+      - name: push pac-man.svg to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
