@@ -24,7 +24,7 @@ I'm a Master's student in AI at the University of Manchester, currently trying t
 ## Projects I'm proud of
 
 ### 🧠 [MindEase](https://github.com/koopatroopa787/mindease)
-Mental health support platform (because mental health matters)
+AI-powered screenshot & content manager with GPT-4 Vision, semantic search, and auto-transcription. Because remembering where you saved that one important screenshot is overrated. Includes a React Native mobile app that's ready for app stores.
 
 ### 🕸️ [Knowledge Graph System](https://github.com/koopatroopa787/Knowledge_graph)
 Built a knowledge graph system that connects dots better than I connect with people at parties
