@@ -9,9 +9,7 @@ I'm a Master's student in AI at the University of Manchester, currently trying t
 - 💼 Looking for AI Engineer roles starting July 2026
 - 🔬 Previous life: Published research on 3D reconstruction, interned at FLSmidth and AIcade
 
-<details>
-<summary>📊 <b>My GitHub Activity</b> <i>(click to expand — see how often I'm actually shipping)</i></summary>
-<br>
+## 📊 My GitHub Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/koopatroopa787/koopatroopa787/output/github-contribution-grid-snake-dark.svg" />
@@ -19,20 +17,20 @@ I'm a Master's student in AI at the University of Manchester, currently trying t
   <img alt="a snake slithering through my contribution graph" src="https://raw.githubusercontent.com/koopatroopa787/koopatroopa787/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
-<br>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=koopatroopa787&hide_border=true&background=45,0F0C29,302B63,24243E&ring=BB9AF7&fire=F7768E&currStreakLabel=7AA2F7&sideNums=C9D1D9&sideLabels=8B92A8&dates=565F89&currStreakNum=FFFFFF" />
+    </td>
+    <td width="50%" valign="top">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=koopatroopa787&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img height="135em" src="https://github-readme-stats.vercel.app/api?username=koopatroopa787&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&hide_rank=true" />
-  <img height="135em" src="https://github-readme-streak-stats.herokuapp.com/?user=koopatroopa787&theme=tokyonight&hide_border=true&background=0D1117&card_width=320" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=koopatroopa787&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true&hide_title=true" width="97%" height="180em" />
-</p>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=koopatroopa787&hide_title=true&hide_border=true&bg_color=0f0c29&color=7aa2f7&line=bb9af7&point=f7768e&area=true&area_color=7aa2f7" />
 
 <p align="center"><sub><i>🌱 small steady commits beat big rare ones — that's the whole strategy</i></sub></p>
-
-</details>
 
 ## Tech I work with
 
