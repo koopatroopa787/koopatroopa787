@@ -9,6 +9,29 @@ I'm a Master's student in AI at the University of Manchester, currently trying t
 - 💼 Looking for AI Engineer roles starting July 2026
 - 🔬 Previous life: Published research on 3D reconstruction, interned at FLSmidth and AIcade
 
+## 📊 My GitHub Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/koopatroopa787/koopatroopa787/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/koopatroopa787/koopatroopa787/output/github-contribution-grid-snake.svg" />
+    <img alt="A snake eating my contribution graph" src="https://raw.githubusercontent.com/koopatroopa787/koopatroopa787/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</p>
+
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=koopatroopa787&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=koopatroopa787&theme=tokyonight&hide_border=true&background=0D1117" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=koopatroopa787&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" width="98%" />
+</p>
+
+<p align="center">
+  <em>Keeping the squares green, one commit at a time 🌱</em>
+</p>
+
 ## Tech I work with
 
 **Languages:** Python (my main squeeze), JavaScript, TypeScript, C++
