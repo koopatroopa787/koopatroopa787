@@ -19,16 +19,14 @@ I'm a Master's student in AI at the University of Manchester, currently trying t
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=koopatroopa787&hide_border=true&background=45,0F0C29,302B63,24243E&ring=BB9AF7&fire=F7768E&currStreakLabel=7AA2F7&sideNums=C9D1D9&sideLabels=8B92A8&dates=565F89&currStreakNum=FFFFFF" />
+    <td width="38%" valign="top">
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=koopatroopa787&hide_border=true&background=0D0D0D&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=AAAAAA&dates=666666&currStreakNum=FFFFFF" />
     </td>
-    <td width="50%" valign="top">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=koopatroopa787&theme=tokyonight" />
+    <td width="62%" valign="top">
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=koopatroopa787&hide_title=true&hide_border=true&bg_color=0D0D0D&color=FFFFFF&line=FFFFFF&point=CCCCCC&area=true&area_color=FFFFFF" />
     </td>
   </tr>
 </table>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=koopatroopa787&hide_title=true&hide_border=true&bg_color=0f0c29&color=7aa2f7&line=bb9af7&point=f7768e&area=true&area_color=7aa2f7" />
 
 <p align="center"><sub><i>🌱 small steady commits beat big rare ones — that's the whole strategy</i></sub></p>
 
