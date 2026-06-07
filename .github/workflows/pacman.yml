@@ -14,13 +14,14 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
         
-      - name: generate pac-man.svg
+      - name: generate snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: koopatroopa787
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=%23ffdd44&color_dots=%23ff6b6b
-            
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%237aa2f7
+            dist/github-contribution-grid-snake-light.svg?palette=github-light&color_snake=%237aa2f7
+
       - name: push pac-man.svg to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
