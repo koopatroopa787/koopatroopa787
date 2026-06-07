@@ -9,28 +9,30 @@ I'm a Master's student in AI at the University of Manchester, currently trying t
 - 💼 Looking for AI Engineer roles starting July 2026
 - 🔬 Previous life: Published research on 3D reconstruction, interned at FLSmidth and AIcade
 
-## 📊 My GitHub Activity
+<details>
+<summary>📊 <b>My GitHub Activity</b> <i>(click to expand — see how often I'm actually shipping)</i></summary>
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/koopatroopa787/koopatroopa787/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/koopatroopa787/koopatroopa787/output/github-contribution-grid-snake-light.svg" />
+  <img alt="a snake slithering through my contribution graph" src="https://raw.githubusercontent.com/koopatroopa787/koopatroopa787/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
+
+<br>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/koopatroopa787/koopatroopa787/output/github-contribution-grid-snake.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/koopatroopa787/koopatroopa787/output/github-contribution-grid-snake.svg" />
-    <img alt="A snake eating my contribution graph" src="https://raw.githubusercontent.com/koopatroopa787/koopatroopa787/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
+  <img height="135em" src="https://github-readme-stats.vercel.app/api?username=koopatroopa787&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&hide_rank=true" />
+  <img height="135em" src="https://github-readme-streak-stats.herokuapp.com/?user=koopatroopa787&theme=tokyonight&hide_border=true&background=0D1117&card_width=320" />
 </p>
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=koopatroopa787&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=koopatroopa787&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=koopatroopa787&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true&hide_title=true" width="97%" height="180em" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=koopatroopa787&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" width="98%" />
-</p>
+<p align="center"><sub><i>🌱 small steady commits beat big rare ones — that's the whole strategy</i></sub></p>
 
-<p align="center">
-  <em>Keeping the squares green, one commit at a time 🌱</em>
-</p>
+</details>
 
 ## Tech I work with
 
