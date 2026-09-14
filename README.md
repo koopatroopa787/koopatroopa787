@@ -1,85 +1,125 @@
-# Hey, I'm Kanishk 👋
+<!--
+  Every image on this page is from a service that was checked live before
+  publishing. Deliberately left out: the public github-readme-stats instance
+  (503), github-profile-trophy (402, deployment disabled) and streak-stats
+  (timing out) — all popular, all showing broken images at the time.
+-->
 
-I'm a Master's student in AI at the University of Manchester, currently trying to convince computers to do my bidding through Python.
+<div align="center">
 
-## What I'm up to
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C5A4A,100:13233A&height=190&section=header&text=Kanishk%20K.%20Sachan&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineering%20%C2%B7%20Agentic%20Systems%20%C2%B7%20Quantitative%20Finance&descAlignY=58&descSize=17" width="100%" alt="Kanishk K. Sachan" />
 
-- 🎓 Studying AI/ML at University of Manchester (graduating July 2026)
-- 🤖 Building AI systems that sometimes work on the first try (rare but it happens)
-- 💼 Looking for AI Engineer roles starting July 2026
-- 🔬 Previous life: Published research on 3D reconstruction, interned at FLSmidth and AIcade
+<a href="https://github.com/koopatroopa787">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1400&color=2FA98C&center=true&vCenter=true&width=620&lines=MSc+Artificial+Intelligence+%40+University+of+Manchester;Dissertation%3A+agent+architectures+for+LLM+trading;Quant+strategy+consultant+on+WorldQuant+BRAIN;1st+place+%C2%B7+QuantiHack+2026+London+Finals" alt="Typing summary" />
+</a>
 
-## 📊 My GitHub Activity
+<p>
+  <a href="https://www.linkedin.com/in/kanishk-kumar-sachan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/Kanishk11486111"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:yashk242810@gmail.com"><img src="https://img.shields.io/badge/Email-0C5A4A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=koopatroopa787&label=Profile%20views&color=13233A&style=for-the-badge" alt="Profile views" />
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/koopatroopa787/koopatroopa787/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/koopatroopa787/koopatroopa787/output/github-contribution-grid-snake-light.svg" />
-  <img alt="a snake slithering through my contribution graph" src="https://raw.githubusercontent.com/koopatroopa787/koopatroopa787/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
+</div>
+
+## About
+
+- 🎓 Finishing an MSc in AI at the [University of Manchester](https://www.manchester.ac.uk/) (graduating December 2026) — dissertation on agent architectures for LLM-based trading, supervised by [Professor Sophia Ananiadou](https://research.manchester.ac.uk/en/persons/sophia.ananiadou)
+- 📈 Part-time quantitative strategy consultant on [WorldQuant BRAIN](https://platform.worldquantbrain.com/)
+- 🧩 Task author on [Alignerr](https://www.alignerr.com/)'s ML Tasks platform
+- 🛠️ BTech in Computer Science (AI and Robotics), [VIT Chennai](https://chennai.vit.ac.in/)
+
+## Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,flutter,dart,kotlin&theme=dark" alt="Python, PyTorch, FastAPI, Flutter, Dart, Kotlin" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Agentic%20systems-0C5A4A?style=flat-square" alt="Agentic systems" />
+  <img src="https://img.shields.io/badge/RAG%20pipelines-0C5A4A?style=flat-square" alt="RAG pipelines" />
+  <img src="https://img.shields.io/badge/MCP%20servers-0C5A4A?style=flat-square" alt="MCP servers" />
+  <img src="https://img.shields.io/badge/Quantitative%20research-13233A?style=flat-square" alt="Quantitative research" />
+</p>
+
+## Selected projects
 
 <table>
   <tr>
-    <td width="38%" valign="top">
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=koopatroopa787&hide_border=true&background=0D0D0D&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=AAAAAA&dates=666666&currStreakNum=FFFFFF" />
+    <td width="50%" valign="top">
+      <h3>📉 HYDRA</h3>
+      Live intraday trading bot deployed on Alpaca and DigitalOcean. Runs ORB and VWAP-reversion strategies with a VIX-based regime filter and Kelly sizing.
     </td>
-    <td width="62%" valign="top">
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=koopatroopa787&hide_title=true&hide_border=true&bg_color=0D0D0D&color=FFFFFF&line=FFFFFF&point=CCCCCC&area=true&area_color=FFFFFF" />
+    <td width="50%" valign="top">
+      <h3>💊 <a href="https://github.com/koopatroopa787/gemma_ak_ka">Pharos</a></h3>
+      Pharmaceutical blister-pack verification app using fine-tuned vision models — Gemma, LiteRT, Unsloth.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🩺 Foresight</h3>
+      Flutter/Dart Android app for on-device health prediction, using TFLite gradient boosting with no cloud dependency.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧊 Video-to-3D Reconstruction</h3>
+      Pipeline turning video footage into detailed 3D meshes, comparing Gaussian Splatting and COLMAP for reconstruction quality. Published at <a href="https://ieeexplore.ieee.org/document/11265382/">IEEE CISES 2025</a>.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 <a href="https://www.kaggle.com/competitions/hull-tactical-market-prediction">Hull Tactical Market Prediction</a></h3>
+      Kaggle financial time-series forecasting — generating trading signals rather than raw predictions, scored on Adjusted Sharpe Ratio.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔬 <a href="https://www.aicrowd.com/challenges/arc-white-box-estimation-challenge-2026">WhestBench</a></h3>
+      AIcrowd challenge estimating neural network activation statistics under strict compute and time limits.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🏆 <a href="https://github.com/koopatroopa787/premortem-x-quantihack">The Pre-Mortem Machine</a></h3>
+      Forensic supply chain intelligence system built with team APEX Predators. <b>1st place, <a href="https://quantihack.com/">QuantiHack 2026</a> London Finals.</b>
     </td>
   </tr>
 </table>
 
-<p align="center"><sub><i>🌱 small steady commits beat big rare ones — that's the whole strategy</i></sub></p>
+## Competitions and awards
 
-## Tech I work with
+<table>
+  <tr>
+    <td align="center" width="44">🥇</td>
+    <td><b>1st place</b>, <a href="https://quantihack.com/">QuantiHack 2026</a> London Finals — team APEX Predators, judged by <a href="https://www.janestreet.com/">Jane Street</a>, <a href="https://optiver.com/">Optiver</a> and <a href="https://www.ycombinator.com/companies/corvera">Corvera</a> (YC W26)</td>
+  </tr>
+  <tr>
+    <td align="center" width="44">🥇</td>
+    <td><b>1st place</b>, AMD Developer Hackathon Act 1</td>
+  </tr>
+  <tr>
+    <td align="center" width="44">🥉</td>
+    <td><b>3rd place (Bronze)</b>, AMD Developer Hackathon AI Agents Track — team APEX101, "Boardroom"</td>
+  </tr>
+  <tr>
+    <td align="center" width="44">🎖️</td>
+    <td><b>Honourable Mention</b>, <a href="https://amazon-nova.devpost.com/">Amazon Nova AI Hackathon</a> — <a href="https://github.com/koopatroopa787/Agiscore">AegisCore</a></td>
+  </tr>
+  <tr>
+    <td align="center" width="44">📈</td>
+    <td><a href="https://www.worldquant.com/brain/iqc/">WorldQuant IQC 2026</a> — Stage 2, UK top teams, London Regional Final</td>
+  </tr>
+</table>
 
-**Languages:** Python (my main squeeze), JavaScript, TypeScript, C++
+## Publications
 
-**AI/ML:** TensorFlow, PyTorch, LangChain, OpenAI APIs
+- 📄 [3D surface reconstruction pipeline](https://ieeexplore.ieee.org/document/11265382/) — IEEE CISES 2025 *(first author)*
+- 📄 [Proximity Detection Based Low-Cost and Handheld IoT Device for Tracking Lost Objects](https://ieeexplore.ieee.org/document/10884196/) — IEEE iSES 2024 *(co-author)*
 
-**Backend:** FastAPI, Node.js, Flask
+## Contribution activity
 
-**Databases:** MongoDB, PostgreSQL
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/koopatroopa787/koopatroopa787/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/koopatroopa787/koopatroopa787/output/github-contribution-grid-snake-light.svg" />
+  <img alt="A snake eating through the contribution graph" src="https://raw.githubusercontent.com/koopatroopa787/koopatroopa787/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
 
-**Tools:** Docker, Git, AWS, Google Cloud
-
-## Projects I'm proud of
-
-### 🧠 [MindEase](https://github.com/koopatroopa787/mindease)
-AI-powered screenshot & content manager with GPT-4 Vision, semantic search, and auto-transcription. Because remembering where you saved that one important screenshot is overrated. Includes a React Native mobile app that's ready for app stores.
-
-### 🕸️ [Knowledge Graph System](https://github.com/koopatroopa787/Knowledge_graph)
-Built a knowledge graph system that connects dots better than I connect with people at parties
-
-### 🔄 [Saga Pattern Implementation](https://github.com/koopatroopa787/saga_pattern)
-Event-driven order processing system with distributed transactions. Because sometimes you need to orchestrate chaos across microservices.
-
-### 📊 [Enterprise Analytics Platform](https://github.com/koopatroopa787/automatic-broccoli)
-Full-scale data analytics platform with ETL pipelines, ML models, and dashboards. GitHub gave it a random name, I gave it purpose.
-
-### 💰 [Quantitative Trading Engine](https://github.com/koopatroopa787/trading_and_finances)
-Multi-strategy backtesting system with portfolio optimization and ML-based strategies. Disclaimer: Past performance doesn't guarantee future returns (but cool code does guarantee fun).
-
-## Currently learning
-
-- Advanced LangChain patterns (because one chain is never enough)
-- Cloud architecture (trying to avoid the "works on my machine" problem)
-- MLOps (making models that actually work in production)
-
-## Fun facts
-
-- I automate boring tasks faster than I can explain how
-- My code has two states: "doesn't work" and "don't touch it, it finally works"
-- I once spent 3 hours debugging only to find I forgot to save the file
-- I name my projects after vegetables when GitHub suggests them (looking at you, automatic-broccoli)
-
-## Let's connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanishk-kumar-sachan-36114a197/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Kanishk11486111)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yashk242810@gmail.com)
-
----
-
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
-
-*"My code? It works. How? No idea. Don't ask." – Me*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:13233A,100:0C5A4A&height=110&section=footer" width="100%" alt="" />
