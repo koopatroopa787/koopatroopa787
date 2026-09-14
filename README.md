@@ -54,11 +54,11 @@ All four self-hosted on a single Oracle Cloud ARM server, no managed platform.
     <td><b><a href="https://instance-20260318-1838.tail042e87.ts.net/">Volition</a></b> — Autonomous, audit-first options risk desk on Alpaca paper trading, built for the Alpaca AI Trading Agents Hackathon.</td>
   </tr>
   <tr>
-    <td width="120" align="center"><a href="https://salarycrossing.com/"><img src="https://img.shields.io/badge/LIVE-2FA98C?style=flat-square" alt="Live" /></a></td>
+    <td width="120" align="center"><a href="https://salarycrossing.com/"><img src="https://img.shields.io/badge/LIVE-2FA98C?style=flat-square" alt="Live" /></a> <a href="https://github.com/koopatroopa787/salary-crossing"><img src="https://img.shields.io/badge/code-13233A?style=flat-square&logo=github&logoColor=white" alt="Code" /></a></td>
     <td><b><a href="https://salarycrossing.com/">Salary Crossing</a></b> — What a salary is really worth abroad: after-tax comparisons across the UK, New York, California, Texas, Dubai and Australia, every rate sourced from the tax authority that sets it.</td>
   </tr>
   <tr>
-    <td width="120" align="center"><a href="https://dotte.duckdns.org/"><img src="https://img.shields.io/badge/LIVE-2FA98C?style=flat-square" alt="Live" /></a></td>
+    <td width="120" align="center"><a href="https://dotte.duckdns.org/"><img src="https://img.shields.io/badge/LIVE-2FA98C?style=flat-square" alt="Live" /></a> <a href="https://github.com/koopatroopa787/dotted-projections"><img src="https://img.shields.io/badge/code-13233A?style=flat-square&logo=github&logoColor=white" alt="Code" /></a></td>
     <td><b><a href="https://dotte.duckdns.org/">Dotted Projections</a></b> — A dot-matrix world map built from real geographic data, steered by a small local LLM that turns plain questions into live data: aircraft overhead, aurora visibility, earthquakes, open markets.</td>
   </tr>
   <tr>
