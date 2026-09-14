@@ -14,6 +14,7 @@
 </a>
 
 <p>
+  <a href="https://kanishk-s.info/"><img src="https://img.shields.io/badge/Website-kanishk--s.info-2FA98C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="https://www.linkedin.com/in/kanishk-kumar-sachan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/Kanishk11486111"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="mailto:yashk242810@gmail.com"><img src="https://img.shields.io/badge/Email-0C5A4A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -42,6 +43,29 @@
   <img src="https://img.shields.io/badge/MCP%20servers-0C5A4A?style=flat-square" alt="MCP servers" />
   <img src="https://img.shields.io/badge/Quantitative%20research-13233A?style=flat-square" alt="Quantitative research" />
 </p>
+
+## Running live
+
+All four self-hosted on a single Oracle Cloud ARM server, no managed platform.
+
+<table>
+  <tr>
+    <td width="120" align="center"><a href="https://instance-20260318-1838.tail042e87.ts.net/"><img src="https://img.shields.io/badge/LIVE-2FA98C?style=flat-square" alt="Live" /></a> <a href="https://github.com/koopatroopa787/volition-ai-trading-agent"><img src="https://img.shields.io/badge/code-13233A?style=flat-square&logo=github&logoColor=white" alt="Code" /></a></td>
+    <td><b><a href="https://instance-20260318-1838.tail042e87.ts.net/">Volition</a></b> — Autonomous, audit-first options risk desk on Alpaca paper trading, built for the Alpaca AI Trading Agents Hackathon.</td>
+  </tr>
+  <tr>
+    <td width="120" align="center"><a href="https://salarycrossing.com/"><img src="https://img.shields.io/badge/LIVE-2FA98C?style=flat-square" alt="Live" /></a></td>
+    <td><b><a href="https://salarycrossing.com/">Salary Crossing</a></b> — What a salary is really worth abroad: after-tax comparisons across the UK, New York, California, Texas, Dubai and Australia, every rate sourced from the tax authority that sets it.</td>
+  </tr>
+  <tr>
+    <td width="120" align="center"><a href="https://dotte.duckdns.org/"><img src="https://img.shields.io/badge/LIVE-2FA98C?style=flat-square" alt="Live" /></a></td>
+    <td><b><a href="https://dotte.duckdns.org/">Dotted Projections</a></b> — A dot-matrix world map built from real geographic data, steered by a small local LLM that turns plain questions into live data: aircraft overhead, aurora visibility, earthquakes, open markets.</td>
+  </tr>
+  <tr>
+    <td width="120" align="center"><a href="https://premortem.duckdns.org/"><img src="https://img.shields.io/badge/LIVE-2FA98C?style=flat-square" alt="Live" /></a> <a href="https://github.com/koopatroopa787/premortem-x-quantihack"><img src="https://img.shields.io/badge/code-13233A?style=flat-square&logo=github&logoColor=white" alt="Code" /></a></td>
+    <td><b><a href="https://premortem.duckdns.org/">The Pre-Mortem Machine</a></b> — Forensic supply-chain stress detection for consumer goods companies. 1st place, QuantiHack 2026.</td>
+  </tr>
+</table>
 
 ## Selected projects
 
@@ -79,7 +103,7 @@
   <tr>
     <td colspan="2" valign="top">
       <h3>🏆 <a href="https://github.com/koopatroopa787/premortem-x-quantihack">The Pre-Mortem Machine</a></h3>
-      Forensic supply chain intelligence system built with team APEX Predators. <b>1st place, <a href="https://quantihack.com/">QuantiHack 2026</a> London Finals.</b>
+      Forensic supply chain intelligence system built with team APEX Predators. <b>1st place, <a href="https://quantihack.com/">QuantiHack 2026</a> London Finals.</b> <a href="https://premortem.duckdns.org/">Live demo →</a>
     </td>
   </tr>
 </table>
